@@ -1,1 +1,1 @@
-# Sentiment-Analysis-using-ML
+# Sentiment-Analysis-using-ML (MAJOR PROJECT)
